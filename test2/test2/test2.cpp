@@ -92,8 +92,9 @@ int main()
 	struct stru *stru1;
 	unsigned char ch_a = 'T';
 	unsigned char ch_b = 'A';
+	unsigned char ch_c = 'E';
 
-	printf("ch_a = %c, ch_b = %c\n", ch_a, ch_b);
+	printf("ch_a = %c, ch_b = %c, ch_c = %c\n", ch_a, ch_b, ch_c);
 
 	stru1 = &stru2;
 
