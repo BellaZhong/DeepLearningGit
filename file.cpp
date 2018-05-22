@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello world, this is modify2 branch!\n");
+	printf("hello world!\n");
 	return 0;
 }	
