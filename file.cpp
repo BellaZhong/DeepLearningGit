@@ -9,6 +9,8 @@ int main()
 
 	int f = 10;
 
+	int g = 22;
+
 	printf("hello world, this is version 1!\n");
 	return 0;
 }	
