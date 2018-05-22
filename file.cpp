@@ -7,7 +7,7 @@ int main()
 
 	int d = 4;
 
-	int f = 5;
+	int f = 10;
 
 	printf("hello world, this is version 1!\n");
 	return 0;
