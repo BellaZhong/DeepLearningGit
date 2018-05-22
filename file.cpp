@@ -9,7 +9,7 @@ int main()
 
 	int f = 10;
 
-	int g = 22;
+	int g = 11;
 
 	printf("hello world, this is version 1!\n");
 	return 0;
