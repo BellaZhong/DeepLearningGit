@@ -11,6 +11,8 @@ int main()
 
 	int g = 11;
 
+	int h = 111;
+
 	printf("hello world, this is version 8!\n");
 	return 0;
 }	
